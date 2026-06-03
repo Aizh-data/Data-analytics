@@ -1,2 +1,2 @@
 # Data-Analytics
-Коллекция проектов по аналитике данных: бизнес‑аналитика, анализ игровых метрик и пользовательского поведения. В проектах — обработка данных, статистический анализ, визуализация и выводы для принятия решений. 
+Collection of data analytics projects: business analytics, analysis of game metrics and user behavior. Projects include data processing, statistical analysis, visualization, and decision-making insights. 
